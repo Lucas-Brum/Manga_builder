@@ -1,5 +1,5 @@
 # Ignorar a pasta agrupados
-grouped/
+merged_chapters/
 
 # Ignorar a pasta venv
 venv/

@@ -3,3 +3,6 @@ merged_chapters/
 
 # Ignorar a pasta venv
 venv/
+
+# Ignorar a pasta __pycache__
+__pycache__/
